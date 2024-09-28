@@ -1,4 +1,0 @@
-pip install paddlenlp
-pip install protobuf==3.19.0
-pip install paddlepaddle-gpu==2.6.1 -i https://pypi.tuna.tsinghua.edu.cn/simple
-pip install bayesian-optimization
