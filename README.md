@@ -20,6 +20,7 @@
 来学习和优化最终的分类结果。动态堆叠融合器利用了不同模型的互补性，显著提升了整体模型的预测性能和泛化能力。
 
 建议使用RTX4090及以上显卡，若显卡内存不足可适当减少batch_size的大小
+
 #READMEen.md
 1.Files named after datasets are those used for training with the corresponding dataset.
 
